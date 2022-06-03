@@ -1,0 +1,5 @@
+<?phpcredits()
+
+echo "hello world";
+
+?>
